@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**MPaulino0510/MPaulino0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Miguel Paulino e sou estudante de **Desenvolvimento de sistemas**
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boa práticas de desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias em aprendizado
+
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* C#
+* Banco de Dados
+
+## Atualmente estudante
+
+* Lógica de Programação
+* Desenvolvimento Front-End
+* Desenvolvimento Back-End
+* APIs REST
+* Banco de dados
+* Git e GitHub
+
+## Projetos
+
+Neste GitHub você encontrará projetos, exercícios, e atividade desenvolvidos durante meus estudos.
+
+Os projetos têm como objetivo colocar em prática os conceitos aprendidos em aula e acompanhar minha evolução como desenvolvedor.
+
+## Objetivo
+
+Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvlver novos projetos e adquirir experiência na área de desenvolvimento de software.
+
+## Contato
+
+* Linkedin: 
